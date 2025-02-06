@@ -32,6 +32,8 @@
     <img  src="5.png" alt="cable"  width="300px">
     <li>Lalu centang  bagian "Share this folder"</li>
     <img  src="6.png" alt="cable"  width="300px">
+    <li>Colok kabel UTP ke masing-masing laptop</li>
+    <img  src="connect kabel.jpeg" alt="cable"  width="200px">
     <li>Buka control panel, pada Network and Internet di klik </li>
     <img  src="7.png" alt="cable"  width="300px">
     <li>Lalu klik bagian "change advanced sharing setting"</li>
