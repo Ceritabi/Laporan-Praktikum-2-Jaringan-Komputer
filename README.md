@@ -18,7 +18,7 @@
 <h2>Langkah-Langkah Konfigurasi</h2>
 
 <ol>
-  <li>Laptop 1</li>
+  <h2> <li>Laptop 1</li></h2>
   <ul>
     <li>Buat folder baru, contoh JARKOM</li>
     <img  src="1.png" alt="cable"  width="300px">
@@ -50,7 +50,7 @@
   </ul>
 
   <hr>
-  <li>Laptop 2</li>
+  <h2><li>Laptop 2</li></h2>
   <ul>
     <li>Buka control panel, lalu klik Network and Internet</li>
     <img  src="13.png" alt="cable"  width="300px">
@@ -66,9 +66,9 @@
     Lalu ketik ping IP Laptop 1 tadi. Hal ini berfungsi untuk mengetahui apakah Laptop 2 terhubung atau tidak ke Laptop 1</li>
     <img  src="17.jpeg" alt="cable"  width="300px">
     <li>Buka File eksplorer, lalu scroll kebawah dan klik Network, lalu ketik path dari folder yang di sharing Laptop 1</li>
-    <img  src="18.jpeg" alt="cable"  width="300px">
+    <img  src="18.png" alt="cable"  width="300px">
     <li>Sekarang folder sudah bisa di lihat dan di edit oleh Laptop 2</li>
-    <img  src="19.jpeg" alt="cable"  width="300px">
+    <img  src="19.png" alt="cable"  width="300px">
     <img  src="20.jpeg" alt="cable"  width="300px">
   </ul>
 </ol>
