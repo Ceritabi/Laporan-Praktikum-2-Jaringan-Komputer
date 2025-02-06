@@ -74,3 +74,12 @@
     <img  src="20.jpeg" alt="cable"  width="300px">
   </ul>
 </ol>
+
+<hr>
+<h2>Analisis Percobaan</h2>
+<p>Berdasarkan hasil percobaan, penggunaan kabel LAN dengan konfigurasi IP Address IPv4 memungkinkan komunikasi langsung antar komputer tanpa memerlukan koneksi internet. Kecepatan transfer data yang tinggi menjadi keunggulan utama dibandingkan metode lain seperti penggunaan flash drive atau transfer melalui jaringan Wi-Fi yang lebih lambat dan rentan terhadap gangguan sinyal.</p>
+
+<hr>
+
+<h2>Kesimpulan</h2>
+<p>Praktikum ini membuktikan bahwa transfer file antar komputer menggunakan kabel LAN dengan IP Address IPv4 adalah metode yang efisien dan stabil. Kecepatan tinggi dan keamanan menjadi keunggulan utama, meskipun terdapat keterbatasan dalam jangkauan dan fleksibilitas. Metode ini ideal digunakan dalam lingkungan jaringan lokal yang membutuhkan kecepatan dan keamanan tanpa perlu koneksi internet.</p>
